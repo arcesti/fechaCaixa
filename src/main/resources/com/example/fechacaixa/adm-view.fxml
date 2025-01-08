@@ -29,14 +29,14 @@
       <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
    </padding>
    <children>
-      <Label alignment="CENTER" prefHeight="17.0" prefWidth="373.0" text="Fechamento de caixa" textFill="#6ee193" GridPane.columnIndex="1" GridPane.columnSpan="2">
+      <Label alignment="CENTER" prefHeight="17.0" prefWidth="373.0" text="Fechamento de caixa" textFill="#fff" GridPane.columnIndex="1" GridPane.columnSpan="2">
          <font>
             <Font name="System Bold" size="25.0" />
          </font>
       </Label>
       <VBox prefHeight="110.0" prefWidth="110.0" GridPane.columnSpan="2" GridPane.rowIndex="1">
          <children>
-            <Label alignment="TOP_LEFT" text="Total em dinheiro" textFill="#a8e6cf">
+            <Label alignment="TOP_LEFT" text="Total em dinheiro" textFill="#fff">
                <font>
                   <Font name="System Bold" size="20.0" />
                </font>
@@ -58,7 +58,7 @@
       </VBox>
       <VBox layoutX="30.0" layoutY="140.0" prefHeight="110.0" prefWidth="110.0" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="1">
          <children>
-            <Label alignment="TOP_LEFT" text="Total em cartão" textFill="#a8e6cf">
+            <Label alignment="TOP_LEFT" text="Total em cartão" textFill="#fff">
                <font>
                   <Font name="System Bold" size="20.0" />
                </font>
@@ -71,7 +71,7 @@
       </VBox>
       <VBox layoutX="340.0" layoutY="140.0" prefHeight="110.0" prefWidth="110.0" GridPane.columnSpan="2" GridPane.rowIndex="2">
          <children>
-            <Label alignment="TOP_LEFT" text="Total em pix" textFill="#a8e6cf">
+            <Label alignment="TOP_LEFT" text="Total em pix" textFill="#fff">
                <font>
                   <Font name="System Bold" size="20.0" />
                </font>
@@ -84,7 +84,7 @@
       </VBox>
       <VBox layoutX="30.0" layoutY="250.0" prefHeight="110.0" prefWidth="110.0" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="2">
          <children>
-            <Label alignment="TOP_LEFT" text="Total de saída" textFill="#a8e6cf">
+            <Label alignment="TOP_LEFT" text="Total de saída" textFill="#fff">
                <font>
                   <Font name="System Bold" size="20.0" />
                </font>
