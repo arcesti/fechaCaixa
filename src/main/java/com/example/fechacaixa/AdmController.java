@@ -10,6 +10,7 @@ public class AdmController {
     public TextField tfSaida;
 
     public void onVisualizarHisto(ActionEvent actionEvent) {
+
     }
 
     public void onCancelar(ActionEvent actionEvent) {
